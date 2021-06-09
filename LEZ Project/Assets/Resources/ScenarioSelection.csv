@@ -1,0 +1,14 @@
+id,title,desc,basicVariables,round0,round1,round2,round3,round4,|
+0,Tutorial,Lernen sie wie das Spiel funktioniert,Steuern:100:Bürger.Einkommen:300:Staat.Emissionswerte:200:Industrie,eventData2.eventData.eventData3,eventData2.eventData.eventData3,eventData2.eventData.eventData3,eventData2.eventData.eventData3,eventData2.eventData.eventData3,|
+0,Wohnungsknappheit,"Kollektivziel 
+- Mehr Wohnraum für die Bürger Individualziele 
+- Vermieter: 
+- Mieter:l",Steuern:100:Bürger.Einkommen:300:Staat.Emissionswerte:200:Industrie,eventData2.eventData.eventData3,eventData2.eventData.eventData3,eventData2.eventData.eventData3,eventData2.eventData.eventData3,eventData2.eventData.eventData3,|
+1,Inflation,"Kollektivziel 
+- Weniger Geld drucken
+- Geldmittel reformieren
+- Altes Geld entsorgen",Steuern:100:Bürger.Einkommen:300:Staat.Emissionswerte:200:Industrie,eventData2.eventData.eventData3,eventData2.eventData.eventData3,eventData2.eventData.eventData3,eventData2.eventData.eventData3,eventData2.eventData.eventData3,|
+2,Umweltschutz,"Kollektivziel 
+- Mehr Bäume Pflanzen
+- Weniger Emissionen
+- Friday for Future",Steuern:100:Bürger.Einkommen:300:Staat.Emissionswerte:200:Industrie,eventData2.eventData.eventData3,eventData2.eventData.eventData3,eventData2.eventData.eventData3,eventData2.eventData.eventData3,eventData2.eventData.eventData3,|

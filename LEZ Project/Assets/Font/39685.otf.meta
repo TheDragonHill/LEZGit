@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: 4195efdf63047824b9d9dc371a9bce52
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Trade Gothic Next LT Pro
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 7034f721c9a065e4bb559592ee6410b3, type: 3}
+  - {fileID: 12800000, guid: 70344aefafe610a4aac58cbb35b7ed72, type: 3}
+  - {fileID: 12800000, guid: c02193320591d514a9a0d02a2e07084d, type: 3}
+  - {fileID: 12800000, guid: 809555e50dd1932468c0ebcfb2a58b58, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

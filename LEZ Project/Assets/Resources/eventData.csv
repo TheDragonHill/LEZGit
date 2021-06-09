@@ -1,0 +1,10 @@
+id,type,content,conVar,group,conTypes,|
+0,text,Student,0,0,0,|
+1,text,Soziale Marktwirtschaft,0,0,0,|
+2,text,Soziale Marktwirtschaft ist ein gesellschafts- und wirtschaftspolitisches Leitbild mit dem Ziel auf der Basis der Wettbewerbswirtschaft die freie Initiative mit einem gerade durch die wirtschaftliche Leistung gesicherten sozialen Fortschritt zu verbinden. ,0,0,0,|
+3,0,0,0,0,0,|
+4,action,Miete erhöhen.100.200.300,Einkommen:direct,0,0,|
+5,action,Sanieren.100.200.300,Einkommen:direct,0,0,|
+6,action,Hilfeleistung der Armut.100.200.300,Einkommen:direct,0,0,|
+7,button,Weiter,end,0,0,|
+8,points,6,0,0,0,|

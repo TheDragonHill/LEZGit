@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: d87a83ed790dbed47aaf98e1e4cd62bf
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Trade Gothic Next SR Pro
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 1225c42e54b231e41b8e77b27b864e26, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
